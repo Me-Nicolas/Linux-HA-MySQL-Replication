@@ -5,4 +5,4 @@
 
 
 ### Author
-<a href="">Nicolas TRUTET</a>
+_<a href="">Nicolas TRUTET</a>_
