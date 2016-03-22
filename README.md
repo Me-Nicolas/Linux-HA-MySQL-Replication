@@ -5,4 +5,4 @@
 
 ## Author
 
-<a href="">Nicolas TRUTET</a>
+<a href="http://www.nicolastrutet.com">Nicolas TRUTET</a>
